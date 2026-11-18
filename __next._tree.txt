@@ -1,3 +1,3 @@
 :HL["/velezhinskaya-site/_next/static/css/473c8a1f3f2ed1c6.css","style"]
 1:[["children",{"s":"__PAGE__","h":160}]]
-0:{"b":"A3Wb1qNs0pF2WA7yd0mdz","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"mVKDxkdWd63SExHeTZBRm","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
