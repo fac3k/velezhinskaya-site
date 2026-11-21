@@ -1,3 +1,4 @@
-:HL["/velezhinskaya-site/_next/static/css/bd6400621e37a29a.css","style"]
+:HL["/_next/static/css/e0a15e52089ea120.css","style"]
+:HL["https://elrmaipuvgcakrvnipqe.supabase.co/storage/v1/object/public/products/1795263527152-jjj.svg","image"]
 1:[["children",{"s":"__PAGE__","h":160}]]
-0:{"b":"zO666vQtdM-dQ0D8vyLIm","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"Xzlpr73PGUnnMVc5CtP60","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
